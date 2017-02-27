@@ -3,7 +3,7 @@
 
 <div><span class="RichText CopyrightRichText-richText">
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted" class=" wrap external" target="_blank" rel="nofollow noreferrer">Python Extension Packages for Windows<i class="icon-external"></i></a>
-<br>去上面地址下载你对应版本cp35的whl，注意，虽然你系统是64位，但要看清你python版本是32还是64位的，再下载对应的win32或者amd64文件<br>
+<br>去上面地址下载你对应版本cp35的whl，注意，虽然你系统是64位，但要看清你python版本是32还是64位的，再下载对应的win32或者amd64文件<br><br>
 <p>安装wheel</p>
 <div class="highlight"><pre><code class="language-text">pip install wheel
 </code></pre></div><p>进入.whl所在的文件夹，执行命令即可完成安装</p>
