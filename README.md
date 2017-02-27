@@ -2,7 +2,7 @@
 windows+Python3环境下安装scrapy
 
 <div><span class="RichText CopyrightRichText-richText">
-<a href="https://link.zhihu.com/?target=http%3A//www.lfd.uci.edu/%7Egohlke/pythonlibs/%23twisted" class=" wrap external" target="_blank" rel="nofollow noreferrer">Python Extension Packages for Windows<i class="icon-external"></i></a>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted" class=" wrap external" target="_blank" rel="nofollow noreferrer">Python Extension Packages for Windows<i class="icon-external"></i></a>
 <br><br>去上面地址下载你对应版本cp35的whl，注意，虽然你系统是64位，但要看清你python版本是32还是64位的，再下载对应的win32或者amd64文件<br><br>
 <p>安装wheel</p>
 <br>
